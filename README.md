@@ -4,9 +4,7 @@ Les séminaires sont prévus chaque 2<sup>ème</sup> jeudi du mois, sauf excepti
 
 Date|Présentateur|Institution d'attache|Titre
 :----:|:-------|:-------------|:------------------------------|
-27 novembre|Philippe Constant|INRS Armand-Frappier|À venir...
-14 décembre 2023|||
-11 janvier 2024|||
+25 janvier|Philippe Constant|INRS Armand-Frappier|À venir...
 8 février 2024|||
 14 mars 2024|||
 11 avril 2024|||
