@@ -12,6 +12,6 @@ Date|Présentateur|Qui invite?|Institution d'attache|Titre
 25 avril|Amadou Sidibe|NA|CRD St-Jean-sur-Richelieu|Modulation du métabolome de la laitue en réponse aux UV-C
 9 mai 2024|Isabelle Laforest-Lapointe|?|UdeS|À venir...
 12 septembre 2024|Peter Moffett|Mamadou Lamine Fall|UdeS|À venir...
-10 octobre 2024||||
+10 octobre 2024|Romaric A. Mouafo Tchinda|?|?|?
 14 novembre 2024||||
 12 décembre 2024||||
