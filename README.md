@@ -12,6 +12,7 @@ Date|Présentateur|Qui invite?|Institution d'attache|Titre
 25 avril|Amadou Sidibe|NA|CRD St-Jean-sur-Richelieu|Modulation du métabolome de la laitue en réponse aux UV-C
 9 mai 2024|Isabelle Laforest-Lapointe|?|UdeS|À venir...
 12 septembre 2024|Peter Moffett|Mamadou Lamine Fall|UdeS|À venir...
+26 septembre 2024|Adrien Bessy|Martin Filion|AAC|Diversité, génomique et biocontrôle des *Streptomyces* spp. causant la gale commune au Québec et au Canada atlantique.
 10 octobre 2024|Romaric A. Mouafo Tchinda|Marie-Thérèse Charles|University of Florida|Building surveillance and mitigation strategies for emerging pathogens, from local to global scale: examples of *Harringtonia lauricola* in Lauraceae and new clades of *Plasmopara viticola* in grapevine.|
 |14 novembre 2024||||
 |12 décembre 2024||||
