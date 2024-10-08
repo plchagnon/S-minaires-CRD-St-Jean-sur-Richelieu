@@ -14,7 +14,7 @@ Date|Présentateur|Qui invite?|Institution d'attache|Titre
 12 septembre 2024|Louis-Philippe Hamel|Mamadou Lamine Fall|Medicago|Impacts de l'expression transitoire sur les cellules végétales et amélioration des pratiques de moléculture
 26 septembre 2024|Adrien Bessy|Martin Filion|AAC|Diversité, génomique et biocontrôle des *Streptomyces* spp. causant la gale commune au Québec et au Canada atlantique.
 10 octobre 2024|Romaric A. Mouafo Tchinda|Marie-Thérèse Charles|University of Florida|Building surveillance and mitigation strategies for emerging pathogens, from local to global scale: examples of *Harringtonia lauricola* in Lauraceae and new clades of *Plasmopara viticola* in grapevine.|
-|14 novembre 2024|Standby invité E Lord?|NA|NA|
+|14 novembre 2024||||
 |12 décembre 2024|Peter Moffett|Mamadou Laminde Fall|UdeS|À venir...
 |16 janvier 2025|Caroline Halde|Jacynthe Masse|U Laval|À venir...
 |13 février 2025||||
